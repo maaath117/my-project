@@ -1,0 +1,7 @@
+# WorkBuddy 工作区配置（本地助手记忆，不需要上传）
+.workbuddy/
+
+# 系统文件
+desktop.ini
+.DS_Store
+Thumbs.db
